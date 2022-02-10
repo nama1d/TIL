@@ -5,4 +5,8 @@
 # 분류
 - git 
 
+*[markdown syntax](https://github.com/nama1d/TIL/blob/master/markdown.md)*
+
+1. [basic concepts](https://github.com/nama1d/TIL/blob/master/basic_concepts.md)
+
 - python
